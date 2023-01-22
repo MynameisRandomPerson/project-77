@@ -1,0 +1,28 @@
+body
+{
+    font: arial;
+    background-color: azure;
+    text-shadow: 3mm;
+}
+
+#first, #last, #big, #small
+{
+    background-color: blanchedalmond;
+    text-decoration-color: darkorchid;
+    font: bold;
+}
+
+#butt
+{
+    background-color: green;
+    text-decoration-color: white;
+}
+.text-warning
+{
+    text-decoration-color: yellow;
+}
+
+.text-info
+{
+    text-decoration-color: skyblue;
+}
